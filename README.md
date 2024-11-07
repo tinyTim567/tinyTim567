@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 ## Hello there, I'm Tom 👋
 - 🧑‍💻 I'm a recent BSc Computer Science graduate 
 - 😄 Pronouns: He/him
-- 🇬🇧 I’m based in the UK
 - 🌐 My personal website is [thomasmcknight.dev](https://thomasmcknight.dev)
 - 📫 How to reach me: [thomas@thomasmcknight.dev](mailto:thomas@thomasmcknight.dev)
 
